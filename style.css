@@ -3,7 +3,7 @@
 }
 
 .grid-container > button {
-    margin: 3px;
+    margin: 4px;
 }
 .btn-1 {
     grid-area: 1/1 / 2/2;
